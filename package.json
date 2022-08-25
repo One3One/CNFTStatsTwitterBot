@@ -1,0 +1,21 @@
+{
+  "name": "ada-bot-twitter",
+  "version": "1.0.0",
+  "description": "Your cryptocurrencies ADA Price Update Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "Twitter",
+    "Bot"
+  ],
+  "author": "Ikmxleo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "twit": "^2.2.11"
+  }
+}
