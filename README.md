@@ -13,6 +13,6 @@ How to run
 4) node app.js
 
 Sample Output
-![](images/Capture.jpg)
+![](images/Capture.PNG)
 
 
