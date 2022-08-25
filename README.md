@@ -12,6 +12,8 @@ How to run
 3) npm install --save
 4) node app.js
 
+You can check the bot at https://twitter.com/CardanoADABot
+
 Sample Output
 
 ![](images/Capture.PNG)
