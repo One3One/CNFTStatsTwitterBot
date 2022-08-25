@@ -13,6 +13,7 @@ How to run
 4) node app.js
 
 Sample Output
+
 ![](images/Capture.PNG)
 
 
