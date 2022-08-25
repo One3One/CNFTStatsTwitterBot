@@ -1,4 +1,3 @@
-//A Product By Ikmxleo
 const express = require("express")
 const app = express();
 
