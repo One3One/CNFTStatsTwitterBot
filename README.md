@@ -1,7 +1,7 @@
 # CNFTStatsTwitterBot
 [CNFTStatsTwitterBot] is a Twitter Bot created with Node js , tweeting your project stats using Cron Jobs. Powered by OpenCNFT.
 
-donate me some $ADA jk
+Buy Me A Coffee 
 
 $131
 
